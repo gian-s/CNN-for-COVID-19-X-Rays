@@ -1,8 +1,8 @@
 # CNN-for-COVID-19-X-Rays
 
 ## About
-Image Classification for Covid-19 X-rays. Normal, Pnueumonaia 
-Dataset taken from https://github.com/EXJUSTICE/COVID19_Detection_Transfer_Learning_VGG16
+Image Classification for Covid-19 X-rays. \n
+Pnueumonaia Dataset taken from https://github.com/EXJUSTICE/COVID19_Detection_Transfer_Learning_VGG16 \n
 Project Completed during Fall 2020 for CS 440: Introduction to Artificial Intelligence at Boston University
 
 ## Setup
