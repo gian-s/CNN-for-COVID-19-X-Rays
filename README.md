@@ -10,8 +10,6 @@ Project Completed during Fall 2020 for CS 440: Introduction to Artificial Intell
 ## Setup
 Use Pip or Conda to install packages:  
 
-'matplotlib', 'numpy', and 'sklearn'
-
-
+'matplotlib', 'numpy', 'sklearn', 'tensorflow v2.0.0+'
 
 ## Implementation
