@@ -8,7 +8,8 @@ Pnueumonaia Dataset taken from https://github.com/EXJUSTICE/COVID19_Detection_Tr
 Project Completed during Fall 2020 for CS 440: Introduction to Artificial Intelligence at Boston University
 
 ## Setup
-Use Pip or Conda to install packages in the requirements.txt file 
+Use Pip or Conda to install packages:  
 
+'matplotlib', 'numpy', 'sklearn', 'tensorflow v2.0.0+'
 
 ## Implementation
